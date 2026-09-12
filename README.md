@@ -7,6 +7,8 @@ for your users on Base — they never need to hold ETH.
 
 🎥 **Demo video:** https://youtu.be/GFK45UYLqjA?si=rTyItYTjUIumJZ3y
 
+💬 Join our Discord: https://discord.gg/wnatvevWx
+
 ✅ **Verified on-chain transaction (Base Sepolia):**
 https://sepolia.basescan.org/tx/0x37343b68b53e1e4c9ea35343fbdf10b88a757966678bac098dc67ea8eb050af3
 
